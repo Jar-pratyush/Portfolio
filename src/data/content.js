@@ -1,10 +1,10 @@
 // all the text on the site lives here so i only edit one file
-// numbers below are from the resume / content brief, update ratings before each job season
+// ratings are from oct 2026, update them before applying anywhere
 
 export const my_email = 'rajpratyush0902@gmail.com'
 
 export const hero_stats = [
-  { big: '9.08', small: 'CGPA · VIT-AP CSE' },
+  { big: '9.08', small: 'CGPA · B.Tech CSE, Vellore Institute of Technology' },
   { big: '1990', small: 'LeetCode Knight' },
   { big: '1419', small: 'Codeforces Specialist' },
   { big: '3★', extra: '1603', small: 'CodeChef peak' },
@@ -78,7 +78,7 @@ export const work_items = [
 ]
 
 export const wins_list = [
-  { title: 'Team Lead, Research Team · Entrepreneurship Club, VIT-AP', when: 'Aug 2024 – Jun 2025', text: 'Led a technical team building data-collection pipelines and analytics dashboards that supported research for 4 early-stage startups.' },
+  { title: 'Team Lead, Research Team · Entrepreneurship Club, Vellore Institute of Technology', when: 'Aug 2024 – Jun 2025', text: 'Led a technical team building data-collection pipelines and analytics dashboards that supported research for 4 early-stage startups.' },
   { title: 'IIT Bombay E-Summit, National Entrepreneurship Challenge', text: 'Top 17 nationally.' },
   { title: 'Building Agents with Agentic AI · IBM', text: 'IBM Career Education Program, July 2026.', link_txt: 'Verify', link: 'https://courses.ibmcep.cognitiveclass.ai/certificates/1ee21a409f9047dfbee05b3cec77a176' },
   { title: 'AI for Real-World Apps · TCS iON & IIT Kharagpur', text: 'Certification.', link_txt: 'View', link: 'https://drive.google.com/file/d/1x23qU_PtuI1cQYqaNhfeVuxYOpzk2I3X/view?usp=drive_link' },

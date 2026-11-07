@@ -25,7 +25,7 @@ export function use_in_view(margin_str = '0px') {
   return [box_ref, is_visible]
 }
 
-// true if the person asked their OS for less motion
+// prefers-reduced-motion check
 export function wants_less_motion() {
   if (typeof window === 'undefined' || !window.matchMedia) return false
   return window.matchMedia('(prefers-reduced-motion: reduce)').matches
